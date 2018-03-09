@@ -1,3 +1,4 @@
+//printing B by print some star
 #include<stdio.h>
 
 int main()
